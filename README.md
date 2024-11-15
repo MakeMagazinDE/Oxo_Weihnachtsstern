@@ -4,9 +4,9 @@ Maker Media GmbH
 
 ***
 
-# Oxo???????Titel
+# Weihnachtsstern mit Oxocard
 
-### Mit RemoteXY kann man nicht nur Apps bauen, um Daten von einem Mikrocontroller abzufragen. Andersherum ist es auch möglich, diesen mithilfe der Smartphone-Sensoren zu steuern. So lässt sich im Handumdrehen eine Wasserwaage mit ESP32 und NeoPixeln bauen, die darauf reagiert, wie man gerade sein Smartphone hält.
+### Weihnachtssterne heben die Stimmung zum Weihnachtsfest und in der lichtarmen Jahreszeit. Der Oxocard-gesteuerte Christbaumschmuck ist dabei nicht nur bunt, sondern bietet über die programmierbaren LEDs ein dynamisches Feuerwerk über das gesamte Farbspektrum.
 
 ![Aufmacherbild aus dem Heft](./banner_wasserwaage.jpg)
 
